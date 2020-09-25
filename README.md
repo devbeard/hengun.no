@@ -1,2 +1,3 @@
-# hengun.no
-static hosting testing
+# Testing
+
+Just testing static hosting
